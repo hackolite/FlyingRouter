@@ -4,21 +4,21 @@ A router virus (dnsmask, hotspotd) to convert rogue router concept to a friendly
 CyberOrganism AI
 
 
-Scénario  non-hostile, Experimental
+# Scénario  non-hostile, Experimental
 
-Environnement 
+# Environnement 
 
 Ensemble hétérogène de machines/devices connectées à un point d’accés wifi, dans une gare, un aéroport 
 Scénario de type Twin  Evil, usurpation d'identité ssid
 Point Zéro [device infecté avec access SUDO] qui se connecte à ce réseau (un ordinateur portable par exemple: 
 
 
-Actions 
+# Actions 
 
 Création d’un environnement réseau Propice
 Sniff Réseau, Déauth, Remplacement du point d’access wifi, basculement de tout les devices connectés de l’ancien réseau au nouveau réseau et MITM.
 
-Propagation des particules Virals 
+''Propagation des particules Virals'' 
 Propagation des particules virales puis exécution en mode daemon sur les machines connecté au Réseau Propice par un protocole réseau quelconque .
 
 Début du cycle non-dormant 
