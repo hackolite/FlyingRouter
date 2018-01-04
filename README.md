@@ -8,7 +8,7 @@ CyberOrganism AI
 
 # Environnement 
 
-Ensemble hétérogène de machines/devices connectées à un point d’accés wifi, dans une gare, un aéroport \n
+Ensemble hétérogène de machines/devices connectées à un point d’accés wifi, dans une gare, un aéroport
 Scénario de type Twin  Evil, usurpation d'identité ssid
 Point Zéro [device infecté avec access SUDO] qui se connecte à ce réseau (un ordinateur portable par exemple: 
 
